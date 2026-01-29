@@ -1,46 +1,38 @@
-🔹 Project: Small Office/Home Office (SOHO) Network
+# SOHO Network Project (Cisco Packet Tracer)
 
-Description:
-Designed and implemented a small office/home office (SOHO) network using a router and access switch. Configured IP addressing and DHCP services to dynamically assign network settings to client devices. Verified network connectivity using ICMP testing.
+📌 Project Overview
+This project simulates a Small Office/Home Office (SOHO) network using Cisco Packet Tracer.
 
+The goal was to design and configure a functional network that supports:
+- Multiple end devices
+- IP addressing
+- Routing
+- Basic security
+- Internet connectivity
 
+🧰 Tools Used
+- Cisco Packet Tracer
 
+🧠 Skills Demonstrated
+- Network topology design
+- IP addressing and subnetting
+- Switch and router configuration
+- Basic routing
+- Connectivity testing (ping, simulation mode)
 
-Topology:
+🗺️ Network Topology
+See screenshots in the screenshots folder.
 
-1 Router
+📂 Files
+- `SOHO Network Setup.pkt` → Packet Tracer project file
+- `screenshots/` → Network topology and test results
 
-1 Switch
+✅ Testing
+Connectivity was verified using ICMP (ping) between devices and to the router.
 
-3 Client PCs
+📈 Future Improvements
+- Add VLANs
+- Add DHCP server
+- Add firewall rules
+- Add wireless access point
 
-
-
-
-
-Configuration Tasks:
-
-Assigned static IP to router interface
-
-Configured DHCP pool and excluded addresses
-
-Set PCs to obtain IP configuration automatically
-
-Verified connectivity using ping
-
-
-
-
-
-Skills Demonstrated:
-
-IP addressing and subnetting
-
-DHCP configuration
-
-Basic LAN routing
-
-Network troubleshooting
-
-
-Cisco IOS CLI usage
